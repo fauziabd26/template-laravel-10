@@ -21,8 +21,8 @@ The project also includes a dynamic menu generated from the database.
 
 ## Installation
 
-1. git clone https://github.com/suryadi445/starter-laravel-10-ui.git
-2. cd starter-laravel-10-ui
+1. git clone https://github.com/fauziabd26/template-laravel-10.git
+2. cd template-laravel-10
 3. composer install
 4. npm install
 5. cp .env.example .env
@@ -34,17 +34,17 @@ The project also includes a dynamic menu generated from the database.
 11. enjoy it http://127.0.0.1:8000/
 
 ## Access Admin Page
-1. Admin :
-Username : suryadi.hhb@gmail.com
-Password : password
+1. Admin : <br />
+Username : fauzi.aaf@gmail.com <br />
+Password : 12345678 <br />
 
-2. Manager : 
-Username : manager@gmail.com
-Password : password
+2. Manager : <br />
+Username : manager@gmail.com <br />
+Password : 12345678 <br />
 
-3. Supervisor
-Username : spv@gmail.com
-Password : password
+3. Supervisor <br />
+Username : spv@gmail.com <br />
+Password : 12345678 <br />
 
 ## Login Page
 ![image](https://github.com/suryadi445/starter-laravel-10-ui/assets/68637256/c260e235-26ed-492d-89e4-a02a47b1aa7c)
